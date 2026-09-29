@@ -1,0 +1,42 @@
+{
+"recherches": [
+{
+"nom": "mot cle locators",
+"valeur": "locators"
+},
+{
+"nom": "mot cle tests",
+"valeur": "tests"
+},
+{
+"nom": "plusieurs mots",
+"valeur": "running tests"
+},
+{
+"nom": "caractere arobase",
+"valeur": "@"
+},
+{
+"nom": "caractere diese",
+"valeur": "#"
+},
+{
+"nom": "caractere plus",
+"valeur": "+"
+}
+],
+"navigation": [
+{
+"lien": "Generating tests",
+"titre": "Generating tests"
+},
+{
+"lien": "Writing tests",
+"titre": "Writing tests"
+},
+{
+"lien": "Running and debugging tests",
+"titre": "Running and debugging tests"
+}
+]
+}
